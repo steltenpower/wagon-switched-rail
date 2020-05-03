@@ -8,7 +8,7 @@ With/without limits on noise, track bend, etc.? I could log a trip by phone and 
 
 Where I originally suggested it in Dutch: http://mrdh.ciptec.eu/index.php/ideas/idea/158
 
-Lose less time on (dis)embarking by other passengers by utilizing the modularity of trains more.
+## Lose less time on (dis)embarking by other passengers by utilizing the modularity of trains more.
 
 A rather significant part of the time traveling by train is caused by other passengers (dis)embarking and the related speeding up and down. With a menu of measures something can be done about it:
 - don't stop if nobody wants on or off
