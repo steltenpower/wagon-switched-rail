@@ -23,4 +23,4 @@ A rather significant part of the time traveling by train is caused by other pass
 - Currently in some trains you can't move from one end to the other however.
 - This would also allow for checking tickets at the station instead of in the train.
 
-An old fried working at Dutch Railway told me part of the above is looked at
+An old friend working at Dutch Railway told me part of the above is being developed
