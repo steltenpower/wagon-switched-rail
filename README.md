@@ -22,3 +22,5 @@ A rather significant part of the time traveling by train is caused by other pass
 - (un)coupling during movement doesn't have to be limited for (dis)embarking, but could also be used for changing your directions: recombinations of trains to save the passenger a disembark and embark (and the waiting in between), again potentially saving on energy use and capacity
 - Currently in some trains you can't move from one end to the other however.
 - This would also allow for checking tickets at the station instead of in the train.
+
+An old fried working at Dutch Railway told me part of the above is looked at
