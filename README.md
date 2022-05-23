@@ -1,4 +1,4 @@
-PacketSwitchingInspiredRailRoadSpeedup
+# wagon-switched-rail (PacketSwitchingInspiredRailRoadSpeedup)
 <img src="https://repository-images.githubusercontent.com/150909266/89ab4b80-5391-11eb-91a1-ce2954c14898">
 
 tried it in a Tweet, https://mobile.twitter.com/steltenpower/status/1233080433082060801 :"
