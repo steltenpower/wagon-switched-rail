@@ -17,7 +17,7 @@ A rather significant part of the time traveling by train is caused by other pass
 - don't stop if nobody wants on or off
 - embarkers are on a wagon already, with doors closed, waiting to be connected
 - disembarkers are on a wagon already, with doors closed, waiting to be disconnected.
-- When the earlier mentioned measures aren't enough to keep doors closed for some wagons they at least limit the number of (dis)embarkers on that wagon and maybe more importantly most will be in the same direction; eiter most get on, or most get off, allowing for a more efficient flow of people
+- When the earlier mentioned measures aren't enough to keep doors closed for some wagons they at least limit the number of (dis)embarkers on that wagon and maybe more importantly most will be in the same direction; either most get on, or most get off, allowing for a more efficient flow of people
 - If all doors can stay closed for the part of the train that has no (dis)embarkers, it might not even need to stop to do the (un)coupling with other wagons: those other wagons can be stopped or put into motion by a short special part of the track, or by the wagon itself. Having it on the track saves weight on the wagon and capacity on the overhead lines.
 - (un)coupling during movement doesn't have to be limited for (dis)embarking, but could also be used for changing your directions: recombinations of trains to save the passenger a disembark and embark (and the waiting in between), again potentially saving on energy use and capacity
 - Currently in some trains you can't move from one end to the other however.
