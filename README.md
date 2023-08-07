@@ -4,6 +4,7 @@
 tried it in a Tweet, https://mobile.twitter.com/steltenpower/status/1233080433082060801 :"
 Example:
 Den Helder - Maastricht just under 4 hrs, according to schedule just under half an hour of stops (of which many are 0 minutes!?).
+<a href="https://community.ns.nl/op-het-station-17/wat-is-de-gemiddelde-stoptijd-van-een-trein-bij-een-station-71626#:~:text=Dat%20is%20lastig%20aangeven%20hoe,de%20trein%20weer%20gaat%20rijden">There's a 42 second minimum per stop, intercity about 1 minute, up to 9 or so</a>
 What if no stops?
 Full speed everywhere?
 With/without limits on noise, track bend, etc.? I could log a trip by phone and base model on it :-)
